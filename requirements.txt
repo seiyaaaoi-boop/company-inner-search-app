@@ -1,23 +1,20 @@
-streamlit==1.41.1
+streamlit
+python-dotenv
 
-python-dotenv==1.0.1
+openai
 
-langchain==0.3.17
-langchain-community==0.3.16
-langchain-core==0.3.33
-langchain-openai==0.3.3
+langchain
+langchain-community
+langchain-openai
 
-openai==1.60.2
+chromadb
 
-chromadb==0.5.0
+PyMuPDF
+docx2txt
+python-docx
 
-PyMuPDF==1.25.2
-docx2txt==0.8
-python-docx==1.1.2
+tiktoken
 
-beautifulsoup4==4.13.3
-
-tiktoken==0.8.0
-
-pandas==2.2.3
-numpy==1.26.4
+pandas
+beautifulsoup4
+lxml
