@@ -13,8 +13,5 @@ PyMuPDF
 docx2txt
 python-docx
 
-tiktoken
-
 pandas
 beautifulsoup4
-lxml
